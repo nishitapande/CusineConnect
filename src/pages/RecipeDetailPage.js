@@ -50,7 +50,7 @@ const RecipeDetailPage = () => {
   };
   // console.log(url);
   return (
-    <div className="mt-2">
+    <div className="mt-2 p-2">
       <div className="">
         <img
           src={recipe.coverImg}
